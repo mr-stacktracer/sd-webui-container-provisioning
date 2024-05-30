@@ -52,6 +52,7 @@ CHECKPOINT_MODELS=(
 )
 
 LORA_MODELS=(
+    # https://civitai.com/models/88902/realistic-breasts-v2
     "https://civitai.com/api/download/models/94604"
 )
 
@@ -87,6 +88,7 @@ CONTROLNET_MODELS=(
 )
 
 EMBEDDINGS=(
+    # https://civitai.com/models/56519/negativehand-negative-embedding
     "https://civitai.com/api/download/models/60938"
 )
 
